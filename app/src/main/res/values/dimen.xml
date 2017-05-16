@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_height">60dp</dimen>
+    <dimen name="material_margin">16dp</dimen>
+    <dimen name="half_material_margin">8dp</dimen>
+    <dimen name="login_text_size">18sp</dimen>
+</resources>

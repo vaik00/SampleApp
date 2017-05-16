@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:layout_margin="@dimen/half_material_margin">
+    <ImageView
+        android:layout_width="match_parent"
+        android:id="@+id/photo"
+        android:layout_height="match_parent" />
+
+</android.support.v7.widget.CardView>

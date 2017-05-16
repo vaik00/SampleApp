@@ -1,0 +1,6 @@
+<resources>
+    <integer name="com_vk_sdk_AppId">5991444</integer>
+
+    <string name="app_name">VKWall</string>
+    <string name="login">Войти</string>
+</resources>
